@@ -10,8 +10,7 @@
         <module name="BazaDanych" />
       </profile>
     </annotationProcessing>
-    <bytecodeTargetLevel>
-      <module name="bazaDanych" target="1.5" />
+    <bytecodeTargetLevel target="1.8">
       <module name="BazaDanych" target="1.6" />
     </bytecodeTargetLevel>
   </component>
